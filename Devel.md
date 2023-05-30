@@ -98,3 +98,67 @@ wmic qfe
 
 ![[Screenshot 2023-05-30 175339.png]]
 
+```
+wmic qfe get Caption,Description,HotFixID,InstalledOn
+```
+
+![[Screenshot 2023-05-30 180311.png]]
+
+```
+wmic logicaldisk
+```
+
+![[Screenshot 2023-05-30 181225.png]]
+
+```
+wmic logicaldisk get caption,description,providername
+```
+
+![[Pasted image 20230530181515.png]]
+
+```
+whomi
+
+whoami /priv
+```
+
+![[Pasted image 20230530181813.png]]
+
+```
+whoami /groups
+```
+
+![[Pasted image 20230530182003.png]]
+
+```
+net user
+```
+
+![[Pasted image 20230530182557.png]]
+
+```
+net user babis
+```
+
+![[Pasted image 20230530182638.png]]
+
+```
+net user Administrator
+```
+
+![[Pasted image 20230530182831.png]]
+
+```
+net localgroup
+
+net localgroup administrators
+```
+
+![[Pasted image 20230530183242.png]]
+
+```
+ipconfig /all
+```
+
+![[Pasted image 20230530183606.png]]
+
