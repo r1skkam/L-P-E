@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Windows Privilege Escalation for Beginners.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,10 +158,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b93dc5ae8b014eef",
+  "active": "5b0c80549f46afe2",
   "lastOpenFiles": [
-    "Windows Privilege Escalation (30May23Tue).md",
+    "README.md",
     "Windows Privilege Escalation for Beginners.md",
+    "Windows Privilege Escalation (30May23Tue).md",
     "Pasted image 20230530184353.png",
     "Pasted image 20230530184008.png",
     "Pasted image 20230530183757.png",
@@ -172,7 +172,6 @@
     "Pasted image 20230530182638.png",
     "Pasted image 20230530182557.png",
     "Pasted image 20230530182003.png",
-    "Pasted image 20230530181813.png",
-    "README.md"
+    "Pasted image 20230530181813.png"
   ]
 }
